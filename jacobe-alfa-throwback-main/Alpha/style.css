@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(124, 150, 122);
+  font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+table {
+  background-color: rgb(50, 45, 58);
+}
+
+img {
+border: 5px solid black;
+}
+
+footer {
+background-color: rgb(123, 123, 177);
+color: white;
+padding: 10px;
+}
+
+th {
+color: rgb(54, 54, 173);
+}
+
+td {
+color: rgb(222, 222, 228);
+}
+
+h2 {
+color: rgb(76, 107, 78);
+}
+
+
